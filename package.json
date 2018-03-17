@@ -1,0 +1,19 @@
+{
+  "name": "cordova-mifare",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for the MIFARE SDK.    Support for the NFC tags NTAG210 family from NXP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schnouz/cordova-mifare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schnouz/cordova-mifare/issues"
+  },
+  "homepage": "https://github.com/schnouz/cordova-mifare#readme"
+}
